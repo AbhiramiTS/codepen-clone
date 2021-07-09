@@ -1,7 +1,7 @@
 # Codepen Clone
 
 
-## This is just a small clone of the Codepen's basic functionality.
+## This is just a simple clone of the Codepen's basic functionality.
 ### Live Demo : https://cocky-mccarthy-9d9f0b.netlify.app/
 
 
